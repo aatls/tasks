@@ -3,13 +3,13 @@
 This task deals with handling big integers in C. More specifically, your task is to implement a function
 
 ```c
-char* factorial(int n);
+char* factorial(long n);
 ```
 
 that calculates the factorial of a given integer `n` and returns it as a string. For example, the output of the code
 
 ```c
-int n = 100;
+long n = 100;
 printf("The factorial of %d is %s\n", n, factorial(n));
 ```
 

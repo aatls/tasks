@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "factorial.h"
 
-char* factorial(int n) {
+char* factorial(long n) {
     return NULL;
 }

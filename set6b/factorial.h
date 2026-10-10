@@ -1,1 +1,1 @@
-char* factorial(int n);
+char* factorial(long n);
